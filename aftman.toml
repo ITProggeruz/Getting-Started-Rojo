@@ -4,4 +4,7 @@
 # To add a new tool, add an entry to this table.
 [tools]
 rojo = "rojo-rbx/rojo@7.4.0-rc3"
+wally = "UpliftGames/wally@0.3.2"
+foreman = "Roblox/foreman@1.5.0"
+run-in-roblox = "rojo-rbx/run-in-roblox@0.3.0"
 # rojo = "rojo-rbx/rojo@6.2.0"
